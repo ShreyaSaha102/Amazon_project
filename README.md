@@ -1,0 +1,1 @@
+This is an detailed Anlysis on Amazon Sales Data. Sales manegement has gain importance to meet increasing competition and it is the most important function in a commerician and business enterprise. Using the dataset of Amazon Sales, a jupyter notebook code is provided.Python,JupyterLab is used for detailed data analysis and Power BI is used for data visualization.
